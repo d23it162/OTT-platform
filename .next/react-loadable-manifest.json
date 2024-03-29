@@ -1,0 +1,20 @@
+{
+  "..\\components\\MovieSummary\\MovieInfo\\TheCastSection\\Cast\\index.js -> react-glider": {
+    "id": "..\\components\\MovieSummary\\MovieInfo\\TheCastSection\\Cast\\index.js -> react-glider",
+    "files": [
+      "static/chunks/node_modules_react-glider_dist_index_js.js"
+    ]
+  },
+  "..\\components\\MovieSummary\\index.js -> ./MovieInfo": {
+    "id": "..\\components\\MovieSummary\\index.js -> ./MovieInfo",
+    "files": [
+      "static/chunks/components_MovieSummary_MovieInfo_index_js.js"
+    ]
+  },
+  "..\\parts\\LazyMenu\\index.js -> components/Menu": {
+    "id": "..\\parts\\LazyMenu\\index.js -> components/Menu",
+    "files": [
+      "static/chunks/menu.js"
+    ]
+  }
+}
